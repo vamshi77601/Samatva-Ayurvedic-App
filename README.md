@@ -70,7 +70,7 @@ Safety is integrated directly into the multi-agent orchestration lifecycle:
 *   **Framework**: [Streamlit](https://streamlit.io/) (v1.35.0+)
 *   **Agent Orchestration**: [Google ADK](https://github.com/google/adk) (v2.0.0+)
 *   **AI Models**: Gemini 2.5 (Flash/Pro) and Gemini 3.5 (via `google-genai`)
-*   **APIs**: Google Drive API v3 (PDF parsing/metadata search), Custom Google Search Tool integration
+*   **MCP**: Google Drive API v3 (PDF parsing/metadata search), Custom Google Search Tool integration
 *   **Styling**: Pure CSS injected for Neumorphic & 3D Saffron/Emerald accents
 
 ---
